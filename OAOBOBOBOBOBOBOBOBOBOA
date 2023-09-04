@@ -1,0 +1,355 @@
+[33mcommit c43198610ffe1a131be46b29035edac8cf3abd29[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: f2f158f 0b7d15e
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Aug 16 02:59:02 2023 +0530
+
+    Merge pull request #30 from PlasticPath/master
+    
+    fixed parentheses issue #29
+
+[33mcommit 0b7d15e0ea4de271551d9a433c714ff95856db90[m
+Author: PlasticPath <shailpatel0507@gmail.com>
+Date:   Tue Aug 15 23:12:00 2023 +0530
+
+    fixed parentheses issue #29
+
+[33mcommit f2f158fff452f24c57f52d8f29f42ed51f02983d[m
+Merge: 3924bb1 f61109d
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Aug 9 22:10:39 2023 +0530
+
+    Merge pull request #28 from sarthaksharma27/master
+    
+    Fixes : changing the color of the calculator's display to red when the result is negative.
+
+[33mcommit f61109d377b24da054d7e7a02bebb413e301daa8[m
+Author: sarthaksharma27 <sharma.sarthak222872@gmail.com>
+Date:   Tue Aug 8 09:51:44 2023 +0530
+
+    changing the color of the calculator's display when the result is negative
+
+[33mcommit 3924bb175ac0ae942fab8cb69133c9bd96476a5c[m
+Merge: 7d7d70f 2dbbe44
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Sun Aug 6 00:46:42 2023 +0530
+
+    Merge pull request #27 from Akshat162001/master
+    
+    fixed issue css #10
+
+[33mcommit 2dbbe44bcbb6d3a0ee158750e12289d6cefd08d3[m
+Author: Akshat Verma <112319520+Akshat162001@users.noreply.github.com>
+Date:   Sun Aug 6 00:09:31 2023 +0530
+
+    fixed issue css #10
+
+[33mcommit 7d7d70f97dd2129902b4e59a9af419bb28727a7a[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Jul 26 02:53:39 2023 +0530
+
+    Fixed Font Size Again
+
+[33mcommit dcf5db158fcc1832b9299074d7f07d1f5987fe18[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Jul 26 02:49:49 2023 +0530
+
+    Fixed Font Size
+
+[33mcommit 879b4f46c84102ea12f823f2df974a5ce4f8ab16[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Jul 26 02:46:30 2023 +0530
+
+    Updated Button Width
+
+[33mcommit 10f2ef689e826d6a30eaff65d322d8f41bfd265c[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Jul 26 02:42:03 2023 +0530
+
+    Updated Font
+
+[33mcommit 9573ea25cc2559e07afe0f67a06c980c714946f1[m
+Merge: e89e08f e011611
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Jul 26 02:35:52 2023 +0530
+
+    Merge pull request #26 from Akshat162001/master
+    
+    fixed issue visibility #18
+
+[33mcommit e0116114c051757683fa57b54b2b7eac3bf0a012[m
+Author: Akshat Verma <112319520+Akshat162001@users.noreply.github.com>
+Date:   Tue Jul 25 01:52:24 2023 +0530
+
+    fixed issue visibility #18
+
+[33mcommit e89e08f3f5236e5488d80bebbad9d679423d1556[m
+Merge: 0fe39eb 15e6ded
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Thu Jul 20 02:36:19 2023 +0530
+
+    Merge pull request #25 from Akshat162001/master
+    
+    Completely Resolved The issue: missing button! #16
+
+[33mcommit 15e6dedd3a351be3f8f17df81b872afbb1037aa6[m
+Author: Akshat Verma <112319520+Akshat162001@users.noreply.github.com>
+Date:   Thu Jul 20 00:04:23 2023 +0530
+
+    Completely Resolved The issue: missing button! #16
+
+[33mcommit 0fe39eb9945016f05196f0c5416c8c8c39d7e44b[m
+Merge: a5ee347 6f94cee
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Jul 14 03:17:25 2023 +0530
+
+    Merge pull request #24 from Mohamedhazeem/master
+    
+    resolves #17, #23
+
+[33mcommit 6f94cee74e700011561fed6057390abb14223c7a[m
+Author: Mohamed Hazeem <a.mohamedhazeem@gmail.com>
+Date:   Sun Jul 2 16:49:35 2023 +0530
+
+    resolve #17
+
+[33mcommit 609d13576b5c6f2231e859c43990a1c774fc3a23[m
+Merge: 651b401 a5ee347
+Author: Mohamed Hazeem <a.mohamedhazeem@gmail.com>
+Date:   Sun Jul 2 16:17:02 2023 +0530
+
+    Merge branch 'master' of https://github.com/Mohamedhazeem/Simple-JavaScript-Calculator
+
+[33mcommit 651b40193139954419e56427035c0b2f12e9c8ea[m
+Author: Mohamed Hazeem <a.mohamedhazeem@gmail.com>
+Date:   Sun Jul 2 16:17:00 2023 +0530
+
+    resolve #23
+
+[33mcommit a5ee3474b5e5826db35115cc869512c8d0e75a3b[m
+Merge: d89dd6c a2ef5b5
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Jun 30 22:25:36 2023 +0530
+
+    Merge pull request #22 from SuryakantM24/Toggle
+    
+    dark Mode Toggle
+
+[33mcommit d89dd6c96e4c49d3d139b460905cc3a54aa9a5a3[m
+Merge: a2a55e3 a06ab93
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Jun 30 22:24:07 2023 +0530
+
+    Merge pull request #21 from Mohamedhazeem/master
+    
+    Update Deprecated Keycode and Prevent Default state of Enter Key
+
+[33mcommit a2ef5b51bbcbfe609c581e1cab7c66dfa7f9bb06[m
+Author: Suryakant Mudke <suryakantmudke1234@gmail.com>
+Date:   Fri Jun 30 02:44:12 2023 +0530
+
+    dark Mode Toggle
+
+[33mcommit a06ab93ba22d74612f3300a80d0abbb86561bb69[m
+Author: Mohamed Hazeem <a.mohamedhazeem@gmail.com>
+Date:   Tue Jun 27 19:50:56 2023 +0530
+
+    Update Deprecated Keycode and Prevent Default state of Enter Key
+
+[33mcommit a2a55e30cc62c7c6b338c7a32f7dbd63180d8805[m
+Merge: 465c536 ac1dd28
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Thu Feb 2 02:46:43 2023 +0530
+
+    Merge pull request #15 from srbmaury/master
+    
+    fixed error in history
+
+[33mcommit ac1dd287684bcac1a0ff049262603a94d04f1f54[m
+Author: Saurabh Maurya <saurabh.maurya.ece20@itbhu.ac.in>
+Date:   Wed Feb 1 23:57:34 2023 +0530
+
+    fixed error in history
+
+[33mcommit 465c5361040b869980a0fc6fc94d04576c4f683a[m
+Merge: 5372079 10762eb
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Feb 1 20:08:25 2023 +0530
+
+    Merge pull request #14 from HrutikaBadgeri/master
+    
+    Edited the calc.js function to accept new inputs properly after the previous operation. (According to the issue that was occurring)
+
+[33mcommit 10762eb0e81bf2897982b448fa9acee93cbc0dba[m
+Author: hrutika985 <hrutika567@gmail.com>
+Date:   Wed Feb 1 19:44:05 2023 +0530
+
+    edit calc.js
+
+[33mcommit 5372079f39e63752cfb29f3a1802c7454a615899[m
+Merge: ad404b3 1dfa185
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Feb 1 19:07:00 2023 +0530
+
+    Merge pull request #12 from darcardenasp045/master
+    
+    Update calc.js
+
+[33mcommit ad404b3527a01c101a657910894f7a46b682ebf0[m
+Merge: 779ed3d a841cfa
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Wed Feb 1 19:06:51 2023 +0530
+
+    Merge pull request #13 from srbmaury/master
+    
+    added calculation history
+
+[33mcommit a841cfa8f039754868dd6c803a0e58ff96cc175d[m
+Author: Saurabh Maurya <saurabh.maurya.ece20@itbhu.ac.in>
+Date:   Sat Jan 28 22:48:37 2023 +0530
+
+    added calculation history
+
+[33mcommit 1dfa18518f24bad8ba9e4f2478282fe0fb7b2e5f[m
+Author: Daniel Cardenas <97079553+darcardenasp045@users.noreply.github.com>
+Date:   Sat Jan 14 00:02:26 2023 -0500
+
+    Update calc.js
+    
+    take off, innecesary console.log
+
+[33mcommit 779ed3ddfc5b721c26ae5202edb945e8e601427f[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Aug 26 16:14:52 2022 +0530
+
+    Update style.css
+
+[33mcommit 33bbd90df0b5675daf212d35b3e36303ea64cdde[m
+Merge: 0219f24 b35e2d7
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Thu Aug 25 18:22:49 2022 +0530
+
+    Merge pull request #7 from ankur731/patch-1
+    
+    update style.css
+
+[33mcommit b35e2d7914b9a8b5ee648fd06aa66ee485a687e8[m
+Author: ankur731 <96834148+ankur731@users.noreply.github.com>
+Date:   Thu Aug 25 18:06:31 2022 +0530
+
+    update style.css
+    
+    Add animation on Button Click
+
+[33mcommit 0219f24752079764dc2b2d1966830eaf2206637f[m
+Merge: 21333ba db48550
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Aug 12 22:35:45 2022 +0530
+
+    Merge pull request #6 from mnaray/master
+    
+    add fix for #4 to other input method
+
+[33mcommit db48550a45dd49f8304e215bb63758da61f4f084[m
+Author: mnaray <m.naray.inf21@stud.bbbaden.ch>
+Date:   Fri Aug 12 18:40:11 2022 +0200
+
+    add function to check for brackets to avoid redundancy on key code input
+
+[33mcommit d5869c4485b760c9611acf5ee706f18dcbec60af[m
+Merge: c8f5593 21333ba
+Author: mnaray <m.naray.inf21@stud.bbbaden.ch>
+Date:   Fri Aug 12 18:24:09 2022 +0200
+
+    Merge pull request #1 from harsh98trivedi/master
+    
+    update fork from parent repo
+
+[33mcommit 21333ba96544c8ea7f416ce38cab1e4c4830c358[m
+Merge: ff52dcb 6361eca
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Aug 12 17:06:41 2022 +0530
+
+    Merge pull request #3 from jkkCoder/master
+    
+    changed design
+
+[33mcommit ff52dcb0d103ed61f6965a028af6fd66ef428404[m
+Merge: 8578df1 c8f5593
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Fri Aug 12 17:06:08 2022 +0530
+
+    Merge pull request #5 from mnaray/master
+    
+    fix issue #4
+
+[33mcommit c8f5593e681d6704652da7ce8fcad6c99120d269[m
+Author: mnaray <m.naray.inf21@stud.bbbaden.ch>
+Date:   Fri Aug 12 12:53:36 2022 +0200
+
+    add bracket multiplication method
+
+[33mcommit 36dac6102f4aee58f45c4699c9e3a6b0cdb59d69[m
+Author: mnaray <m.naray.inf21@stud.bbbaden.ch>
+Date:   Thu Aug 11 10:50:19 2022 +0200
+
+    remove distracting comment from debugging
+
+[33mcommit 6361ecaaf6be12d60fd0815156e3c50ef320ccb6[m
+Author: jkkCoder <jayeshk118@gmail.com>
+Date:   Mon Aug 23 20:34:12 2021 +0530
+
+    changed design
+
+[33mcommit 8578df1097fa622831f3c7d4cccf0362a9c396e0[m
+Merge: 925cc00 70314f2
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Thu Oct 1 15:52:44 2020 +0530
+
+    Merge pull request #2 from asadgulxar10/patch-2
+    
+    Update index.html
+
+[33mcommit 925cc00a9e1305b34c5828bd9183e8cd1b766add[m
+Merge: d0d85f5 cfad038
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Thu Oct 1 15:52:23 2020 +0530
+
+    Merge pull request #1 from asadgulxar10/patch-1
+    
+    Update calc.js
+
+[33mcommit 70314f2b22b761a2cf26fbec58fd842368a48c28[m
+Author: asadgulxar10 <51773651+asadgulxar10@users.noreply.github.com>
+Date:   Thu Oct 1 11:06:22 2020 +0500
+
+    Update index.html
+
+[33mcommit cfad0387390128276aacd4ab764c94e34c4bd986[m
+Author: asadgulxar10 <51773651+asadgulxar10@users.noreply.github.com>
+Date:   Thu Oct 1 11:02:08 2020 +0500
+
+    Update calc.js
+
+[33mcommit d0d85f5d158fc3c60632c172fd809f07c1626d71[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Mon Dec 30 22:10:24 2019 +0530
+
+    Added Google Analytics Code ➕
+
+[33mcommit 0fcac751445b6a136c2a82d5ca9a13b1a30f2c66[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Mon Dec 30 22:05:23 2019 +0530
+
+    Updated Meta Image :heavy_plus_sign:
+
+[33mcommit 37d5084cf15d36ad162f6d9cb37b0660104852f7[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Mon Dec 30 21:56:18 2019 +0530
+
+    Added Readme :heavy_plus_sign:
+
+[33mcommit 95b4e9fdfc357072e2f8ad9ffa5ab5ec7ebc36e1[m
+Author: Harsh Trivedi <harsh98trivedi@gmail.com>
+Date:   Mon Dec 30 21:53:24 2019 +0530
+
+    Initial Commit :heavy_plus_sign:
