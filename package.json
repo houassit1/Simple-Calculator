@@ -4,10 +4,12 @@
   "description": "A simple JavaScript Calculator made by [Harsh Trivedi](https://harsh98trivedi.github.io)",
   "main": "calc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-app.js",  // Replace "your-app.js" with your actual entry point
+    "dev": "npm start"
   },
   "keywords": [],
-  "author": "Simple-Calculator", // Replace with your name
+  "author": "Hamza ouassit",
   "license": "ISC",
   "dependencies": {
     "calculator": "^0.1.12"

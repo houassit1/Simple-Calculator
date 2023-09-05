@@ -1,0 +1,3 @@
+[submodule "Simple-Calculator"]
+	path = Simple-Calculator
+	url = https://github.com/houassit1/Simple-Calculator.git
